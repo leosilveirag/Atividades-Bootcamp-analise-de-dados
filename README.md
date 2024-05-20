@@ -1,4 +1,4 @@
-# Projeto_ETL
+# Atividade de ETL
 
 Atividade proposta em aula onde em grupo deveríamos realizar o processo de ETL (Extract, Transform e Load) de um conjunto de dados públicos de uma empresa qualquer, neste caso especificamente era com o objetivo de avaliar as informações coletadas dos clientes e suas compras para poder analisar medidas de marketing futuramente. Após a realização da ETL se fosse possível, gerar alguns gráficos para analisar dados que pudessemos considerar importante. 
 
