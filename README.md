@@ -16,6 +16,8 @@ No segundo dashborad, abordamos questões mais ligadas a saúde e sono e consegu
 
 Neste projeto participei ativamente de todas as etapas do projeto tanto ajudando técnicamente como ajudando a fazer a gestão do projeto, participando ativamente de todas as etapas, pois optamos com ogrupo resolver juntos todas as etapas para todos participarem e darem opinião sobre cada etapa e asssim ajudando no aprendizado que foi passado do bootcamp. 
 
+Link do PowerBi para visualização do Dashboard feito: https://app.powerbi.com/view?r=eyJrIjoiNWJiMWFhOGEtMDZmMS00MTU2LTg0Y2EtY2EwYzM3NjBmYzg3IiwidCI6IjY2YzMzY2UxLTFkN2ItNDA3ZC1iYzBmLTUyOGNjY2ZlMDBjZiJ9
+
 <h2 align= "center"> Atividade ETL </h2>
 
 Atividade proposta em aula do bootcamp da SoulCode de análise de dados onde em grupo deveríamos realizar o processo de ETL (Extract, Transform e Load) de um conjunto de dados públicos de uma empresa qualquer, neste caso especificamente era com o objetivo de avaliar as informações coletadas dos clientes e suas compras para poder analisar medidas de marketing futuramente. Após a realização da ETL se fosse possível, gerar alguns gráficos para analisar dados que pudessemos considerar importante. 
